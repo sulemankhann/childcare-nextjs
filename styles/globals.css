@@ -14,3 +14,7 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.course-body img {
+  width: 100%;
+}
